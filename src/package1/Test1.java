@@ -7,7 +7,8 @@ public class Test1 {
 
 		System.out.println("DEMO 1");
 		System.out.println("DEMO 2");
-		System.out.println("DEMO 3");
+		System.out.println("DEMO 4");
+		System.out.println("DEMO 5");
 	}
 
 }
